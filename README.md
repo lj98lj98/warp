@@ -4,3 +4,5 @@
 谢谢 https://dartnode.com/ 提供免费技术支持
 
 <img>https://dartnode.com/assets/dash/images/brand/logo.png</img>
+<img src="https://dartnode.com/assets/dash/images/brand/logo.png"  width="200"
+  height="170" />
